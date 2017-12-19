@@ -39,7 +39,7 @@ namespace BjDiDaSoft.Core.Application.DataAccessLayer
         #region Company
 
         /// <summary>
-        /// 
+        /// SaveCompany
         /// </summary>
         /// <param name="company"></param>
         /// <param name="operation"></param>
@@ -50,7 +50,7 @@ namespace BjDiDaSoft.Core.Application.DataAccessLayer
         }
 
         /// <summary>
-        /// 
+        /// GetCompanies
         /// </summary>
         /// <param name="whereClause"></param>
         /// <param name="dataTable"></param>
